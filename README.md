@@ -1,5 +1,5 @@
 # UARM
-Official implementation of "Uncertainty-Aware Reward Modeling for Stable RLHF"
+Official implementation of "Not All Reward Matters: Uncertainty-Aware Reward Modeling for RLHF"
 
 ## Requirements
 
